@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... systems development
 - 💞️ I’m looking to collaborate on ... a code that help me to learn a lot about codes
 - 📫 How to reach me ... via email at: marcelo_hv_souza@estudante.sesisenai.org.br
-- 😄 Pronouns: ... he/his
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i have a girlfriend
 
 <!---
